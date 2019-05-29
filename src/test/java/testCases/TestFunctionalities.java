@@ -3,6 +3,7 @@ package testCases;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Ignore;
 import org.testng.annotations.Listeners;
 import org.testng.ITestResult;
 import org.openqa.selenium.OutputType;
@@ -20,9 +21,7 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pages.ContactUsPage;
 import pages.HomePage;
-
-
-
+import resources.PropertiesFile;
 
 import org.apache.logging.log4j.Logger;
 
@@ -35,6 +34,8 @@ import org.apache.logging.log4j.LogManager;
 @Listeners(resources.TestNGListeners.class)
 
 public class TestFunctionalities {
+	
+	
 	WebDriver driver;
 	WebDriverWait wait;
 
@@ -42,29 +43,24 @@ public class TestFunctionalities {
 	ExtentReports extent;
 	ExtentTest test;
 	static String projectPath;
-
-
+	
 	Logger logger = LogManager.getLogger(TestFunctionalities.class);
 	SoftAssert soft_assert = new SoftAssert();
+	String baseURL = PropertiesFile.getURL();
 
 	@BeforeMethod(alwaysRun = true)
 	public void setUp() {
+		
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
-		driver.get("https://www.mashreqbank.com/uae/en/personal/home");
-
+		driver.get(baseURL);
 		wait = new WebDriverWait(driver, 10, 50);
-
-
 
 		projectPath = System.getProperty("user.dir");
 		String timestamp = String.valueOf(new Date().getTime());
 		htmlReporter = new ExtentHtmlReporter(projectPath+"/ExtentReports/Extent"+timestamp+".html");
 		extent = new ExtentReports();	
-
-
 	}
-
 
 	@Test
 	public void Test_NavigationBar() {	
@@ -248,8 +244,6 @@ public class TestFunctionalities {
 		test.pass("Entering valid phone number");	
 
 	}
-
-
 
 
 	@AfterMethod(alwaysRun = true)	

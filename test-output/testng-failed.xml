@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="7" guice-stage="DEVELOPMENT" name="Failed suite [Parallel test suite]" parallel="methods">
-  <test thread-count="7" name="Test-Execution(failed)" parallel="methods">
-    <parameter name="myBrowser" value="Opera"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="testCases.TestFunctionalities">
         <methods>
           <include name="setUp"/>
           <include name="Test_Mashreq_News"/>
           <include name="Test_Mobile_number"/>
-          <include name="Test_Contact_Us_Mandatory_Fields"/>
           <include name="Test_NavigationBar"/>
           <include name="afterTestExecution"/>
+          <include name="Test_Contact_Us_homepage"/>
           <include name="Test_Field_I_am_looking_into"/>
           <include name="Test_Intial_Sub_Product"/>
         </methods>
       </class> <!-- testCases.TestFunctionalities -->
     </classes>
-  </test> <!-- Test-Execution(failed) -->
-</suite> <!-- Failed suite [Parallel test suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

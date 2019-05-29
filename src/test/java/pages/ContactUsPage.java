@@ -12,6 +12,8 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
+import resources.PropertiesFile;
+
 public class ContactUsPage {
 
 	WebDriver driver = null;
@@ -82,14 +84,14 @@ public class ContactUsPage {
 	}
 	
 	public void enter_invalid_mobile_number() {
-		String InvalidNumber = "123456";	
+		String InvalidNumber = PropertiesFile.InvalidNumber();	
 		this.wait.until(ExpectedConditions.visibilityOf(input_phno)).sendKeys(InvalidNumber);
 		phno_error.isDisplayed();
 		
 	}
 			
-	public void enter_valid_mobile_number() {					
-		String ValidNumber = "1234567";
+	public void enter_valid_mobile_number() {
+		String ValidNumber = PropertiesFile.ValidNumber();
 		input_phno.clear();
 		input_phno.sendKeys(ValidNumber);		
 	}	
