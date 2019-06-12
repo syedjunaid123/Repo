@@ -22,7 +22,7 @@ public class ContactUsPage {
 	@FindBy(xpath="//button[@id='btnSubmit']")
 	WebElement btn_submit;
 
-	@FindBy(id="reachoutforproduct")
+	@FindBy(xpath="//select[@id='reachoutforproduct']")
 	WebElement drd_iam_looking;
 	
 	@FindBy(id="product")
@@ -58,12 +58,14 @@ public class ContactUsPage {
 	public void select_drd_iam_looking_to() {
 
 		int num_of_options_in_drd = 4;
+		this.wait.until(ExpectedConditions.elementToBeClickable(drd_iam_looking));
 		Select drd_looking_into = new Select(drd_iam_looking);
 		List<WebElement> drd_options = drd_looking_into.getOptions();
 		Assert.assertEquals((drd_options.size() - 1), num_of_options_in_drd, "More than 4 options are displayed in the list");
 	}
 	
 	public void select_drd_initial_sub_product() {
+		this.wait.until(ExpectedConditions.elementToBeClickable(drd_initial_sub_product));
 		Select drd_sub_product = new Select(drd_initial_sub_product);
 		List<WebElement> drd_options = drd_sub_product.getOptions();
 		System.out.println(drd_options);	

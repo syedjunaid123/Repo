@@ -388,3 +388,200 @@
 [INFO ] 2019-05-29 14:58:44.418 [main] TestFunctionalities - Click on Contact Us link
 [INFO ] 2019-05-29 14:58:45.152 [main] TestFunctionalities - Entering invalid phone number
 [INFO ] 2019-05-29 14:58:45.355 [main] TestFunctionalities - Entering valid phone number
+[INFO ] 2019-05-29 15:03:49.057 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:03:49.799 [main] TestFunctionalities - Entering invalid phone number
+[INFO ] 2019-05-29 15:03:49.993 [main] TestFunctionalities - Entering valid phone number
+[INFO ] 2019-05-29 15:05:23.591 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:06:51.560 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:09:05.269 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:10:31.266 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:15:41.892 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:24:32.539 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:27:01.559 [TestNG-tests-1] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-05-29 15:27:38.817 [TestNG-tests-1] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 12:50:13.451 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 12:50:14.106 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-10 12:50:14.126 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-10 12:50:22.125 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-10 12:50:22.227 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 12:50:44.172 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 12:53:18.882 [TestNG-tests-1] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 12:53:20.229 [TestNG-tests-1] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-10 12:53:20.253 [TestNG-tests-1] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-10 12:53:28.521 [TestNG-tests-1] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-10 12:53:28.601 [TestNG-tests-1] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 12:53:36.408 [TestNG-tests-1] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 12:57:22.333 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:06:32.993 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:10:03.703 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:11:40.378 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:11:50.460 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:12:11.997 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:12:22.087 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:14:45.714 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:16:58.467 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:16:59.129 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:17:40.157 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:17:40.822 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:18:32.733 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:18:33.384 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-10 13:18:33.404 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-10 13:18:44.664 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-10 13:18:44.750 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:18:52.856 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:18:53.701 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:19:01.899 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:27:33.813 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:27:34.578 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-10 13:27:34.635 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-10 13:27:42.781 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-10 13:27:42.868 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:27:50.788 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:27:51.430 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:27:59.321 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:27:59.927 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-10 13:28:00.053 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-10 13:28:00.372 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-10 13:28:09.634 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-10 13:28:17.430 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:39:37.577 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:39:38.577 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-10 13:39:38.599 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-10 13:39:47.079 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-10 13:39:47.166 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:39:55.088 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:39:55.718 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:40:03.840 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:40:04.505 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-10 13:40:04.611 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-10 13:40:05.014 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-10 13:40:13.038 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-10 13:40:20.972 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:42:38.197 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:42:38.941 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-10 13:42:40.032 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-10 13:42:47.865 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-10 13:42:47.969 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:42:56.002 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:42:56.632 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-10 13:43:04.673 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-10 13:43:06.029 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-10 13:43:06.126 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-10 13:43:06.503 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-10 13:43:14.322 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-10 13:43:22.189 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-11 16:03:15.105 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-11 16:03:16.598 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-11 16:03:16.631 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-11 16:03:26.572 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-11 16:03:26.695 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-11 16:03:42.195 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-11 16:03:43.757 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-11 16:03:57.032 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-11 16:03:58.391 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-11 16:03:58.600 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-11 16:03:59.107 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-11 16:04:09.953 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-11 16:04:26.814 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 13:19:46.942 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 13:19:47.767 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-12 13:19:47.839 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-12 13:19:55.873 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-12 13:19:55.976 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 13:20:03.690 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 13:20:04.344 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-12 13:20:12.698 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 13:20:13.317 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-12 13:20:13.423 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-12 13:20:13.822 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-12 13:20:21.849 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-12 13:20:29.939 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:51:04.112 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:51:04.846 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-12 15:51:04.963 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-12 15:51:12.906 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-12 15:51:12.999 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:51:21.244 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:51:21.875 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-12 15:51:35.777 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:51:36.403 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-12 15:51:36.498 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-12 15:51:36.927 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-12 15:51:48.903 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-12 15:51:57.382 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:56:55.110 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:56:56.152 [main] TestFunctionalities - Entering invalid phone number
+[INFO ] 2019-06-12 15:56:56.363 [main] TestFunctionalities - Entering valid phone number
+[INFO ] 2019-06-12 15:57:04.438 [main] TestFunctionalities - Validating if the Navigation Bar is displayed or not
+[INFO ] 2019-06-12 15:57:04.466 [main] TestFunctionalities - Validating if the Corporate Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.491 [main] TestFunctionalities - Validating if the Business Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.517 [main] TestFunctionalities - Validating if the International Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.546 [main] TestFunctionalities - Validating if the Private Banking Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.573 [main] TestFunctionalities - Validating if the Al Islami Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.601 [main] TestFunctionalities - Validating if the Gold Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.629 [main] TestFunctionalities - Validating if the Mashreq Securities Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.657 [main] TestFunctionalities - Validating if the Mashreq Capital Tab is displayed or not
+[INFO ] 2019-06-12 15:57:04.686 [main] TestFunctionalities - Validating if the Mashreq Global Services Tab is displayed or not
+[INFO ] 2019-06-12 15:57:20.278 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:57:21.359 [main] TestFunctionalities - Entering invalid phone number
+[INFO ] 2019-06-12 15:57:21.573 [main] TestFunctionalities - Entering valid phone number
+[INFO ] 2019-06-12 15:57:29.789 [main] TestFunctionalities - Validating if the Navigation Bar is displayed or not
+[INFO ] 2019-06-12 15:57:29.815 [main] TestFunctionalities - Validating if the Corporate Tab is displayed or not
+[INFO ] 2019-06-12 15:57:29.840 [main] TestFunctionalities - Validating if the Business Tab is displayed or not
+[INFO ] 2019-06-12 15:57:29.866 [main] TestFunctionalities - Validating if the International Tab is displayed or not
+[INFO ] 2019-06-12 15:57:29.895 [main] TestFunctionalities - Validating if the Private Banking Tab is displayed or not
+[INFO ] 2019-06-12 15:57:29.921 [main] TestFunctionalities - Validating if the Al Islami Tab is displayed or not
+[INFO ] 2019-06-12 15:57:29.947 [main] TestFunctionalities - Validating if the Gold Tab is displayed or not
+[INFO ] 2019-06-12 15:57:29.971 [main] TestFunctionalities - Validating if the Mashreq Securities Tab is displayed or not
+[INFO ] 2019-06-12 15:57:29.996 [main] TestFunctionalities - Validating if the Mashreq Capital Tab is displayed or not
+[INFO ] 2019-06-12 15:57:30.036 [main] TestFunctionalities - Validating if the Mashreq Global Services Tab is displayed or not
+[INFO ] 2019-06-12 15:57:54.165 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:57:54.885 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-12 15:57:54.946 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-12 15:58:03.407 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-12 15:58:03.494 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:58:11.216 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:58:11.849 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-12 15:58:19.716 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:58:20.337 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-12 15:58:20.485 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-12 15:58:20.823 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-12 15:58:28.576 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-12 15:58:36.595 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:58:38.266 [main] TestFunctionalities - Entering invalid phone number
+[INFO ] 2019-06-12 15:58:38.701 [main] TestFunctionalities - Entering valid phone number
+[INFO ] 2019-06-12 15:58:46.444 [main] TestFunctionalities - Validating if the Navigation Bar is displayed or not
+[INFO ] 2019-06-12 15:58:46.469 [main] TestFunctionalities - Validating if the Corporate Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.493 [main] TestFunctionalities - Validating if the Business Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.518 [main] TestFunctionalities - Validating if the International Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.543 [main] TestFunctionalities - Validating if the Private Banking Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.568 [main] TestFunctionalities - Validating if the Al Islami Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.592 [main] TestFunctionalities - Validating if the Gold Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.617 [main] TestFunctionalities - Validating if the Mashreq Securities Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.644 [main] TestFunctionalities - Validating if the Mashreq Capital Tab is displayed or not
+[INFO ] 2019-06-12 15:58:46.670 [main] TestFunctionalities - Validating if the Mashreq Global Services Tab is displayed or not
+[INFO ] 2019-06-12 15:59:05.775 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:59:06.531 [main] TestFunctionalities - Click on Submit button
+[INFO ] 2019-06-12 15:59:06.585 [main] TestFunctionalities - Validating the no. of Mandatory fields
+[INFO ] 2019-06-12 15:59:15.693 [main] TestFunctionalities - Validating Contact-Us section in Homepage
+[INFO ] 2019-06-12 15:59:15.776 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:59:23.982 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:59:24.637 [main] TestFunctionalities - Select dropdown, I am Looking Into
+[INFO ] 2019-06-12 15:59:32.448 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:59:33.074 [main] TestFunctionalities - Select Initial Sub Product Dropdown
+[INFO ] 2019-06-12 15:59:33.216 [main] TestFunctionalities - Select dropdown link
+[INFO ] 2019-06-12 15:59:33.566 [main] TestFunctionalities - Select dropdown sub product
+[INFO ] 2019-06-12 15:59:42.090 [main] TestFunctionalities - Validating Mashreq News section in Homepage
+[INFO ] 2019-06-12 15:59:50.846 [main] TestFunctionalities - Click on Contact Us link
+[INFO ] 2019-06-12 15:59:51.898 [main] TestFunctionalities - Entering invalid phone number
+[INFO ] 2019-06-12 15:59:52.064 [main] TestFunctionalities - Entering valid phone number
+[INFO ] 2019-06-12 16:00:01.394 [main] TestFunctionalities - Validating if the Navigation Bar is displayed or not
+[INFO ] 2019-06-12 16:00:01.421 [main] TestFunctionalities - Validating if the Corporate Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.446 [main] TestFunctionalities - Validating if the Business Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.470 [main] TestFunctionalities - Validating if the International Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.497 [main] TestFunctionalities - Validating if the Private Banking Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.522 [main] TestFunctionalities - Validating if the Al Islami Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.547 [main] TestFunctionalities - Validating if the Gold Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.575 [main] TestFunctionalities - Validating if the Mashreq Securities Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.599 [main] TestFunctionalities - Validating if the Mashreq Capital Tab is displayed or not
+[INFO ] 2019-06-12 16:00:01.625 [main] TestFunctionalities - Validating if the Mashreq Global Services Tab is displayed or not

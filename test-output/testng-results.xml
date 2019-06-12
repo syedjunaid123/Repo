@@ -1,25 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7633" started-at="2019-05-29T10:58:38Z" finished-at="2019-05-29T10:58:45Z">
+  <suite name="Default suite" duration-ms="64413" started-at="2019-06-12T10:28:57Z" finished-at="2019-06-12T10:30:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7633" started-at="2019-05-29T10:58:38Z" finished-at="2019-05-29T10:58:45Z">
+    <test name="Default test" duration-ms="64413" started-at="2019-06-12T10:28:57Z" finished-at="2019-06-12T10:30:01Z">
       <class name="testCases.TestFunctionalities">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@5656be13]" name="setUp" is-config="true" duration-ms="6136" started-at="2019-05-29T10:58:38Z" finished-at="2019-05-29T10:58:44Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="setUp" is-config="true" duration-ms="8245" started-at="2019-06-12T10:28:57Z" finished-at="2019-06-12T10:29:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="Test_Mobile_number()[pri:0, instance:testCases.TestFunctionalities@5656be13]" name="Test_Mobile_number" duration-ms="1122" started-at="2019-05-29T10:58:44Z" finished-at="2019-05-29T10:58:45Z">
+        <test-method status="PASS" signature="Test_Contact_Us_Mandatory_Fields()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="Test_Contact_Us_Mandatory_Fields" duration-ms="984" started-at="2019-06-12T10:29:05Z" finished-at="2019-06-12T10:29:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test_Mobile_number -->
-        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@5656be13]" name="afterTestExecution" is-config="true" duration-ms="359" started-at="2019-05-29T10:58:45Z" finished-at="2019-05-29T10:58:45Z">
+        </test-method> <!-- Test_Contact_Us_Mandatory_Fields -->
+        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="afterTestExecution" is-config="true" duration-ms="334" started-at="2019-06-12T10:29:06Z" finished-at="2019-06-12T10:29:06Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Test_Mobile_number status=SUCCESS method=TestFunctionalities.Test_Mobile_number()[pri:0, instance:testCases.TestFunctionalities@5656be13] output={null}]]]>
+                <![CDATA[[TestResult name=Test_Contact_Us_Mandatory_Fields status=SUCCESS method=TestFunctionalities.Test_Contact_Us_Mandatory_Fields()[pri:0, instance:testCases.TestFunctionalities@235834f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestExecution -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="setUp" is-config="true" duration-ms="8729" started-at="2019-06-12T10:29:06Z" finished-at="2019-06-12T10:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_Contact_Us_homepage()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="Test_Contact_Us_homepage" duration-ms="125" started-at="2019-06-12T10:29:15Z" finished-at="2019-06-12T10:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Contact_Us_homepage -->
+        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="afterTestExecution" is-config="true" duration-ms="146" started-at="2019-06-12T10:29:15Z" finished-at="2019-06-12T10:29:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_Contact_Us_homepage status=SUCCESS method=TestFunctionalities.Test_Contact_Us_homepage()[pri:0, instance:testCases.TestFunctionalities@235834f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestExecution -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="setUp" is-config="true" duration-ms="7943" started-at="2019-06-12T10:29:15Z" finished-at="2019-06-12T10:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_Field_I_am_looking_into()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="Test_Field_I_am_looking_into" duration-ms="768" started-at="2019-06-12T10:29:23Z" finished-at="2019-06-12T10:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Field_I_am_looking_into -->
+        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="afterTestExecution" is-config="true" duration-ms="157" started-at="2019-06-12T10:29:24Z" finished-at="2019-06-12T10:29:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_Field_I_am_looking_into status=SUCCESS method=TestFunctionalities.Test_Field_I_am_looking_into()[pri:0, instance:testCases.TestFunctionalities@235834f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestExecution -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="setUp" is-config="true" duration-ms="7542" started-at="2019-06-12T10:29:24Z" finished-at="2019-06-12T10:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_Intial_Sub_Product()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="Test_Intial_Sub_Product" duration-ms="1228" started-at="2019-06-12T10:29:32Z" finished-at="2019-06-12T10:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Intial_Sub_Product -->
+        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="afterTestExecution" is-config="true" duration-ms="142" started-at="2019-06-12T10:29:33Z" finished-at="2019-06-12T10:29:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_Intial_Sub_Product status=SUCCESS method=TestFunctionalities.Test_Intial_Sub_Product()[pri:0, instance:testCases.TestFunctionalities@235834f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestExecution -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="setUp" is-config="true" duration-ms="8327" started-at="2019-06-12T10:29:33Z" finished-at="2019-06-12T10:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_Mashreq_News()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="Test_Mashreq_News" duration-ms="54" started-at="2019-06-12T10:29:42Z" finished-at="2019-06-12T10:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Mashreq_News -->
+        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="afterTestExecution" is-config="true" duration-ms="142" started-at="2019-06-12T10:29:42Z" finished-at="2019-06-12T10:29:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_Mashreq_News status=SUCCESS method=TestFunctionalities.Test_Mashreq_News()[pri:0, instance:testCases.TestFunctionalities@235834f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestExecution -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="setUp" is-config="true" duration-ms="8501" started-at="2019-06-12T10:29:42Z" finished-at="2019-06-12T10:29:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_Mobile_number()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="Test_Mobile_number" duration-ms="1328" started-at="2019-06-12T10:29:50Z" finished-at="2019-06-12T10:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Mobile_number -->
+        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="afterTestExecution" is-config="true" duration-ms="138" started-at="2019-06-12T10:29:52Z" finished-at="2019-06-12T10:29:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_Mobile_number status=SUCCESS method=TestFunctionalities.Test_Mobile_number()[pri:0, instance:testCases.TestFunctionalities@235834f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestExecution -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="setUp" is-config="true" duration-ms="9152" started-at="2019-06-12T10:29:52Z" finished-at="2019-06-12T10:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_NavigationBar()[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="Test_NavigationBar" duration-ms="270" started-at="2019-06-12T10:30:01Z" finished-at="2019-06-12T10:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_NavigationBar -->
+        <test-method status="PASS" signature="afterTestExecution(org.testng.ITestResult)[pri:0, instance:testCases.TestFunctionalities@235834f2]" name="afterTestExecution" is-config="true" duration-ms="131" started-at="2019-06-12T10:30:01Z" finished-at="2019-06-12T10:30:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_NavigationBar status=SUCCESS method=TestFunctionalities.Test_NavigationBar()[pri:0, instance:testCases.TestFunctionalities@235834f2] output={null}]]]>
               </value>
             </param>
           </params>

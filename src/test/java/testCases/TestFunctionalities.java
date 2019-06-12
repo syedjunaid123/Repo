@@ -34,8 +34,8 @@ import org.apache.logging.log4j.LogManager;
 @Listeners(resources.TestNGListeners.class)
 
 public class TestFunctionalities {
-	
-	
+
+
 	WebDriver driver;
 	WebDriverWait wait;
 
@@ -43,14 +43,14 @@ public class TestFunctionalities {
 	ExtentReports extent;
 	ExtentTest test;
 	static String projectPath;
-	
+
 	Logger logger = LogManager.getLogger(TestFunctionalities.class);
 	SoftAssert soft_assert = new SoftAssert();
 	String baseURL = PropertiesFile.getURL();
 
 	@BeforeMethod(alwaysRun = true)
 	public void setUp() {
-		
+
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		driver.get(baseURL);
@@ -62,6 +62,7 @@ public class TestFunctionalities {
 		extent = new ExtentReports();	
 	}
 
+	
 	@Test
 	public void Test_NavigationBar() {	
 		extent.attachReporter(htmlReporter);
@@ -114,7 +115,7 @@ public class TestFunctionalities {
 
 	}
 
-
+	
 	@Test
 	public void Test_Mashreq_News() {	
 		extent.attachReporter(htmlReporter);
@@ -130,7 +131,7 @@ public class TestFunctionalities {
 		soft_assert.assertAll();					
 	}
 
-
+	
 	@Test
 	public void Test_Contact_Us_homepage() {	
 		extent.attachReporter(htmlReporter);
@@ -188,13 +189,20 @@ public class TestFunctionalities {
 		contact_link.click_lnk_contact_us();
 		logger.info("Click on Contact Us link");
 		test.pass("Click on Contact Us link");	
+		
+//		try {
+//			Thread.sleep(10000);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 
 		Iam_looking_to_field.select_drd_iam_looking_to();
 		logger.info("Select dropdown, I am Looking Into");
 		test.pass("Select dropdown, I am Looking Into");			
 	}
 
-
+	
 	@Test
 	public void Test_Intial_Sub_Product() {	
 		extent.attachReporter(htmlReporter);
@@ -221,7 +229,8 @@ public class TestFunctionalities {
 		test.pass("Select dropdown sub product");
 
 	}
-
+	
+	
 	@Test
 	public void Test_Mobile_number() {	
 		extent.attachReporter(htmlReporter);
@@ -234,6 +243,8 @@ public class TestFunctionalities {
 		contact_link.click_lnk_contact_us();
 		logger.info("Click on Contact Us link");
 		test.pass("Click on Contact Us link");	
+		
+	
 
 		mobile_field.enter_invalid_mobile_number();
 		logger.info("Entering invalid phone number");
@@ -245,11 +256,8 @@ public class TestFunctionalities {
 
 	}
 
-
 	@AfterMethod(alwaysRun = true)	
 	public void afterTestExecution(ITestResult result) {
-
-		extent.attachReporter(htmlReporter);
 
 		if(ITestResult.FAILURE==result.getStatus())
 		{
@@ -266,8 +274,6 @@ public class TestFunctionalities {
 				System.out.println("Exception while taking screenshot "+e.getMessage());
 			}               
 		}
-
-
 		driver.quit();
 		extent.flush();
 	}
